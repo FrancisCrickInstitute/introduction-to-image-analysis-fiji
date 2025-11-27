@@ -23,8 +23,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
 # Slides
-
-All the presentation slides for the workshop are accessible will soon be accessible here.
+* "*Who is in the room?*" slide deck – [here](https://docs.google.com/presentation/d/1fPer4pxdTVaLEYpqDCgiYjetH4GLbG5TtygVU6zFrYc/edit?usp=sharing)
+* All the presentation slides for the workshop will soon be accessible here.
 
 # Program
 
