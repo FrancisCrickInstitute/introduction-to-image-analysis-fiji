@@ -24,7 +24,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Slides
 * "*Who is in the room?*" slide deck – [here](https://docs.google.com/presentation/d/1fPer4pxdTVaLEYpqDCgiYjetH4GLbG5TtygVU6zFrYc/edit?usp=sharing)
-* All the presentation slides for the workshop will soon be accessible here.
+* You can access the slides for the course [here](https://thefranciscrickinstitute-my.sharepoint.com/:f:/g/personal/salgues_crick_ac_uk/IgDXmtmhuF51TLxYFhH_aTV9AU8ZHydJ9zIKNHMJNm6WB3U?e=HbFjBp).
 
 # Program
 
