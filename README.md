@@ -87,7 +87,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<ul>
 				<li>Stefania Marcotti & Sara Salgueiro Torres</li>
 				<ul>
-					<li>Hands-on: Counting and quantifying morphology and intensity of objects</li>
+					<li>Hands-on: Counting and quantifying morphology of objects</li>
 					<li>Automating pipelines scripting with FIJI macros</li>
 				</ul>
 			</ul>
