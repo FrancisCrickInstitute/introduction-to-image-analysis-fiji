@@ -43,7 +43,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Sonia Spitzer</li>
+					<li>Sonia Spitzer & Sara Salgueiro Torres</li>
 					<ul><li>Who are you and why are you here?</li></ul>
 					<ul><li>Why manual analysis is a bad idea</li></ul>
 					<ul><li>What is metadata and opening images in FIJI</li></ul>
