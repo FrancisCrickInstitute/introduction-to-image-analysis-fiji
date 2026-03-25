@@ -1,4 +1,4 @@
-### 5th December 2025, Francis Crick Institute
+### 13th April 2026, Francis Crick Institute
 
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
@@ -12,7 +12,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Instructors
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* [Stefania Marcotti, Francis Crick Institute](https://www.linkedin.com/in/stefania-marcotti/)
+* [Sonia Spitzer, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sonia-spitzer)
+* [Stefania Marcotti, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/stefania-marcotti)
 
 
 # Preparation
@@ -23,15 +24,15 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
 # Slides
-* "*Who is in the room?*" slide deck – [here](https://docs.google.com/presentation/d/1fPer4pxdTVaLEYpqDCgiYjetH4GLbG5TtygVU6zFrYc/edit?usp=sharing)
-* You can access the slides for the course [here](https://thefranciscrickinstitute-my.sharepoint.com/:f:/g/personal/salgues_crick_ac_uk/IgDXmtmhuF51TLxYFhH_aTV9AU8ZHydJ9zIKNHMJNm6WB3U?e=HbFjBp).
+* "*Who is in the room?*" slide deck – [here](https://docs.google.com/presentation/d/1y_UEd6uDa1SiFB3ZC-DJ5HrJifMfB_Zx6K86lnYKcXk/edit?usp=sharing)
+* You can access the slides for the course [here](https://thefranciscrickinstitute-my.sharepoint.com/:f:/g/personal/salgues_crick_ac_uk/IgDXph1wx7IfQKt-Em_xs-EaAbim3msORhz62H0YbJ0w0Yg?e=85lVcc).
 
 # Program
 
 <table style="width:100%">
 	<tbody>
 		<tr>
-			<th colspan=3>Friday, December 5th 2025</th>
+			<th colspan=3>Monday, April 13th 2026</th>
 		</tr>
 		<tr>
 			<td>09:30 - 11:00</td>
@@ -42,7 +43,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Sara Salgueiro Torres</li>
+					<li>Sonia Spitzer</li>
 					<ul><li>Who are you and why are you here?</li></ul>
 					<ul><li>Why manual analysis is a bad idea</li></ul>
 					<ul><li>What is metadata and opening images in FIJI</li></ul>
@@ -63,7 +64,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Sara Salgueiro Torres</li>
+					<li>Sonia Spitzer</li>
 					<ul>
 						<li>Basic segmentation using thresholding</li>
 						<li>Use of filtering to suppress noise</li>
@@ -85,7 +86,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<li>Stefania Marcotti & Sara Salgueiro Torres</li>
+				<li>Sara Salgueiro Torres</li>
 				<ul>
 					<li>Hands-on: Counting and quantifying morphology of objects</li>
 					<li>Automating pipelines scripting with FIJI macros</li>
@@ -121,13 +122,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Location
 
-The workshop will take place in Training Room 2 (1st floor):
+The workshop will take place in the Sally Leevers Training Room (1st floor):
 
 <p align="center">
 	<img width="100%" src="assets/training_room_2_floorplan.png" alt="Training Room Floormap">
 </p>
-
-**Please note that this is the smaller of the two training rooms.**
 
 
 
