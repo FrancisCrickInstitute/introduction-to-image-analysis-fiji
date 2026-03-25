@@ -125,7 +125,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 The workshop will take place in the Sally Leevers Training Room (1st floor):
 
 <p align="center">
-	<img width="100%" src="assets/training_room_2_floorplan.png" alt="Training Room Floormap">
+	<img width="100%" src="assets/training_room_floorplan.png" alt="Training Room Floormap">
 </p>
 
 
