@@ -22,6 +22,7 @@ Download the workshop data by clicking on the link to the ZIP archive at the top
 
    > **WARNING: FIJI *must* be installed in a location where it has write permission - otherwise, it cannot update itself**
 
+
 3. Start FIJI and allow the updater to run:
 
    ![FIJI Webpage](./../assets/Updater.png)
