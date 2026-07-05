@@ -1,4 +1,4 @@
-### 13th April 2026, Francis Crick Institute
+### 31st July 2026, Francis Crick Institute
 
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
@@ -6,9 +6,6 @@
 
 In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging the popular open-source software [FIJI](https://fiji.sc), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This course, led by experienced core facility staff from the Francis Crick Institute, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
 
-# Registration
-
->Registration for this worksop is now closed.
 
 # Instructors
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
@@ -23,16 +20,13 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
 **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
-# Slides
-* "*Who is in the room?*" slide deck – [here](https://docs.google.com/presentation/d/1y_UEd6uDa1SiFB3ZC-DJ5HrJifMfB_Zx6K86lnYKcXk/edit?usp=sharing)
-* Course slides – [here](https://thefranciscrickinstitute-my.sharepoint.com/:f:/g/personal/salgues_crick_ac_uk/IgDXph1wx7IfQKt-Em_xs-EaAbim3msORhz62H0YbJ0w0Yg?e=RkISWH)
 
 # Program
 
 <table style="width:100%">
 	<tbody>
 		<tr>
-			<th colspan=3>Monday, April 13th 2026</th>
+			<th colspan=3>Friday, July 31st 2026</th>
 		</tr>
 		<tr>
 			<td>09:30 - 11:00</td>
