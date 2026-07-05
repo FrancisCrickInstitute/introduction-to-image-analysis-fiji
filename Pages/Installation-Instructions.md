@@ -10,9 +10,9 @@ Download the workshop data by clicking on the link to the ZIP archive at the top
 
 1. Go to the [FIJI Download Page](https://fiji.sc/). You will see two main options: **Stable** and **Latest**.
 
-**Recommended**: Download the **Latest** version. This is the version we have tested for this course's materials.
+**Recommended**: Download the **Stable** version. This is the version we have tested for this course's materials.
 
-> **Cautionary note**: The "Latest" version runs on a newer version of Java. While it works perfectly for this workshop, some older plugins (which you might use in your own research later) may not have migrated yet. If you encounter issues in the future, the "Stable" version is a good fallback.
+> **Cautionary note**: The "Latest" version runs on a newer version of Java. For future reference, some plugins you might use in your analysis might have updated to the newer version, some others might not. It's worth keeping a copy of each on your machine.
 
    ![FIJI Webpage](./../assets/Fiji.png)
 
