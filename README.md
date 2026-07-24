@@ -41,7 +41,6 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 					<ul><li>'Who is in the room' icebreaker</li></ul>
 					<ul><li>Why manual analysis is a bad idea</li></ul>
 					<ul><li>What is metadata and opening images in FIJI</li></ul>
-					</ul>
 				</ul>
 			</td>
 		</tr>
